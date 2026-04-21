@@ -173,7 +173,7 @@ vaibhav = {
   </picture>
 </div>
 
-> ⚠️ **Snake setup:** Add [this GitHub Action](https://github.com/Platane/snk) to your repo to generate the snake SVG automatically.
+
 
 ---
 
