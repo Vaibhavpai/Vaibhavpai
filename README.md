@@ -177,11 +177,24 @@ vaibhav = {
 
 ---
 
-<!-- TROPHIES -->
-## `$ ls ./achievements`
+<!-- HACKATHON WIN -->
+## `$ cat ./achievements/hackathons.log`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaibhavpai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+| 🏆 Event | 🚀 Project | 📌 Role | 🥇 Result |
+|----------|-----------|---------|-----------|
+| **Hackanova 5.0** | GuardianAI — AI-driven early warning system for internal user fraud | Full-Stack + ML + Presenter | **🥇 Winner** |
+
+</div>
+
+---
+
+<!-- TROPHIES -->
+## `$ ls ./github_trophies`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VaibhavPai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </div>
 
 ---
