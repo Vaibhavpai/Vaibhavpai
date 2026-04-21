@@ -182,9 +182,9 @@ vaibhav = {
 
 <div align="center">
 
-| 🏆 Event | 🚀 Project | 📌 Role | 🥇 Result |
-|----------|-----------|---------|-----------|
-| **Hackanova 5.0** | GuardianAI — AI-driven early warning system for internal user fraud | Full-Stack + ML + Presenter | **🥇 Winner** |
+| 📌 Role | 🥇 Result |
+|---------|-----------|
+| Full-Stack + ML | **🥇 Hackathon Won** |
 
 </div>
 
